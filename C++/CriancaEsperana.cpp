@@ -43,15 +43,5 @@ int main(){
     cout << "MUITO OBRIGADO!" << endl;
     cout << "------------------------" << endl;
 
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
